@@ -1,0 +1,177 @@
+2020-12-16 09:34:53,429; INFO; NP.forecaster; _handle_missing_data; dropped 3 NAN row in 'y'
+2020-12-16 09:34:53,486; INFO; NP.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2020-12-16 09:34:53,488; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 128
+2020-12-16 09:34:53,579; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:34:54,057; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2020-12-16 09:34:55,394; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:34:57,461; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:34:59,325; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:01,178; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:02,963; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:04,007; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:04,218; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:06,105; INFO; NP.config; __post_init__; Note: Trend changepoint regularization is experimental.
+2020-12-16 09:35:06,111; INFO; NP.forecaster; _handle_missing_data; dropped 92 NAN row in 'y'
+2020-12-16 09:35:06,118; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-16 09:35:06,254; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 1.23E-02
+2020-12-16 09:35:20,005; INFO; NP.config; __post_init__; Note: Trend changepoint regularization is experimental.
+2020-12-16 09:35:20,013; INFO; NP.forecaster; _handle_missing_data; dropped 92 NAN row in 'y'
+2020-12-16 09:35:20,021; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-16 09:35:20,049; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:20,207; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 2.85E-02
+2020-12-16 09:35:20,535; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:22,140; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:23,750; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:25,369; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:26,960; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:28,559; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:30,259; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:31,919; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:33,534; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:35,176; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:35,432; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:35:35,693; INFO; NP.forecaster; _handle_missing_data; 1042 missing dates added.
+2020-12-16 09:35:35,699; INFO; NP.forecaster; _handle_missing_data; 1134 NaN values in column y were auto-imputed.
+2020-12-16 09:35:35,745; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:36:19,523; INFO; NP.forecaster; _handle_missing_data; 1042 missing dates added.
+2020-12-16 09:36:19,531; INFO; NP.forecaster; _handle_missing_data; 1134 NaN values in column y were auto-imputed.
+2020-12-16 09:36:19,574; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:36:22,778; INFO; NP.forecaster; _handle_missing_data; 22 missing dates added.
+2020-12-16 09:36:22,783; INFO; NP.forecaster; _handle_missing_data; 23 NaN values in column y were auto-imputed.
+2020-12-16 09:36:22,810; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:36:22,968; WARNING; NP.forecaster; plot; Too few forecasts to plot a line per forecast step.Plotting a line per forecast origin instead.
+2020-12-16 09:38:39,616; INFO; NP.forecaster; _handle_missing_data; 22 missing dates added.
+2020-12-16 09:38:39,620; INFO; NP.forecaster; _handle_missing_data; 23 NaN values in column y were auto-imputed.
+2020-12-16 09:38:39,633; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:31,068; INFO; NP.forecaster; _handle_missing_data; dropped 3 NAN row in 'y'
+2020-12-16 09:39:31,086; INFO; NP.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2020-12-16 09:39:31,087; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 128
+2020-12-16 09:39:31,167; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:31,652; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2020-12-16 09:39:32,704; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:34,812; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:36,665; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:38,704; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:40,789; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:42,078; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:42,286; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:43,501; INFO; NP.config; __post_init__; Note: Trend changepoint regularization is experimental.
+2020-12-16 09:39:43,507; INFO; NP.forecaster; _handle_missing_data; dropped 92 NAN row in 'y'
+2020-12-16 09:39:43,515; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-16 09:39:43,648; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 1.23E-02
+2020-12-16 09:39:57,947; INFO; NP.config; __post_init__; Note: Trend changepoint regularization is experimental.
+2020-12-16 09:39:57,954; INFO; NP.forecaster; _handle_missing_data; dropped 92 NAN row in 'y'
+2020-12-16 09:39:57,962; INFO; NP.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-16 09:39:57,991; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:39:58,166; INFO; NP.forecaster; _lr_range_test; learning rate range test found optimal lr: 2.85E-02
+2020-12-16 09:39:58,509; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:00,214; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:01,934; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:03,626; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:05,285; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:06,874; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:08,570; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:10,225; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:12,091; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 09:40:13,716; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 11:11:31,221; INFO; NP.forecaster; _handle_missing_data; 1042 missing dates added.
+2020-12-16 11:11:31,228; INFO; NP.forecaster; _handle_missing_data; 1134 NaN values in column y were auto-imputed.
+2020-12-16 11:11:31,694; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 11:13:48,904; INFO; NP.forecaster; _handle_missing_data; 1042 missing dates added.
+2020-12-16 11:13:48,911; INFO; NP.forecaster; _handle_missing_data; 1134 NaN values in column y were auto-imputed.
+2020-12-16 11:13:49,292; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
+2020-12-16 11:14:16,704; INFO; NP.forecaster; _handle_missing_data; 22 missing dates added.
+2020-12-16 11:14:16,711; INFO; NP.forecaster; _handle_missing_data; 23 NaN values in column y were auto-imputed.
+2020-12-16 11:14:16,783; WARNING; py.warnings; _showwarnmsg; /Users/amol/opt/anaconda3/lib/python3.7/site-packages/torch/nn/modules/container.py:552: UserWarning: Setting attributes on ParameterDict is not supported.
+  warnings.warn("Setting attributes on ParameterDict is not supported.")
+
